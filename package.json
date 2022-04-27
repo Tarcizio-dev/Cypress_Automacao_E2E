@@ -1,0 +1,15 @@
+{
+  "name": "projeto-alura",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Tarcizio Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "mochawesome": "^7.1.3"
+  }
+}
